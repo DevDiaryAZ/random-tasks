@@ -12,5 +12,5 @@ function digPow(n, p) {
   return (result / n) % 1 == 0 ? result / n : -1;
 }
 
-console.log(digPow(89, 1));
+// console.log(digPow(89, 1));
 console.log(digPow(46288, 3));
